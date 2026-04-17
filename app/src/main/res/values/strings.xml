@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Auto Clicker</string>
+    <string name="accessibility_service_description">자동 클릭 매크로 앱 - 화면에서 이미지를 인식하고 자동으로 클릭합니다</string>
+    
+    <!-- 홈 화면 -->
+    <string name="home_title">Auto Clicker</string>
+    <string name="btn_add_macro">새 매크로</string>
+    <string name="btn_settings">설정</string>
+    <string name="macro_list_empty">등록된 매크로가 없습니다</string>
+    
+    <!-- 매크로 등록 화면 -->
+    <string name="macro_registration_title">매크로 등록</string>
+    <string name="label_macro_name">매크로 이름</string>
+    <string name="hint_macro_name">예: 클릭 매크로</string>
+    <string name="label_target_image">타겟 이미지</string>
+    <string name="btn_select_image">이미지 선택</string>
+    <string name="label_threshold">인식 정확도 (Threshold)</string>
+    <string name="label_click_interval">클릭 간격 (밀리초)</string>
+    <string name="label_max_repetitions">최대 반복 횟수</string>
+    <string name="btn_save">저장</string>
+    <string name="btn_cancel">취소</string>
+    
+    <!-- 매크로 상세 화면 -->
+    <string name="macro_detail_title">매크로 상세</string>
+    <string name="btn_start">시작</string>
+    <string name="btn_stop">중지</string>
+    <string name="btn_delete">삭제</string>
+    <string name="btn_edit">편집</string>
+    
+    <!-- 설정 화면 -->
+    <string name="settings_title">설정</string>
+    <string name="btn_accessibility_settings">AccessibilityService 설정</string>
+    <string name="btn_battery_optimization">배터리 최적화 제외</string>
+    <string name="btn_back">뒤로 가기</string>
+    
+    <!-- 상태 메시지 -->
+    <string name="status_macro_running">매크로 실행 중...</string>
+    <string name="status_macro_stopped">매크로 중지됨</string>
+    <string name="status_target_found">타겟 이미지 발견</string>
+    <string name="status_target_not_found">타겟 이미지를 찾을 수 없음</string>
+    <string name="status_click_executed">클릭 실행</string>
+    <string name="status_error">오류 발생</string>
+    
+    <!-- 권한 메시지 -->
+    <string name="permission_camera_required">카메라 권한이 필요합니다</string>
+    <string name="permission_storage_required">저장소 권한이 필요합니다</string>
+    <string name="permission_accessibility_required">AccessibilityService 권한이 필요합니다</string>
+    <string name="permission_battery_optimization_required">배터리 최적화 제외가 필요합니다</string>
+    
+    <!-- 알림 -->
+    <string name="notification_macro_running">매크로 실행 중</string>
+    <string name="notification_click_to_stop">중지하려면 탭하세요</string>
+</resources>

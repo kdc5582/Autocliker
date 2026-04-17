@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 기본 색상 -->
+    <color name="primary">#0a7ea4</color>
+    <color name="primary_dark">#005a7a</color>
+    <color name="primary_light">#4db8d8</color>
+    <color name="accent">#ff6b6b</color>
+
+    <!-- 배경 색상 -->
+    <color name="background">#ffffff</color>
+    <color name="background_dark">#f5f5f5</color>
+    <color name="surface">#f9f9f9</color>
+
+    <!-- 텍스트 색상 -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_tertiary">#bdbdbd</color>
+
+    <!-- 상태 색상 -->
+    <color name="success">#4caf50</color>
+    <color name="warning">#ff9800</color>
+    <color name="error">#f44336</color>
+    <color name="info">#2196f3</color>
+
+    <!-- 테두리 색상 -->
+    <color name="border">#e0e0e0</color>
+    <color name="divider">#f0f0f0</color>
+</resources>
